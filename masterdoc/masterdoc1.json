@@ -1,0 +1,32 @@
+[
+    {
+      "Name": "Analytics in the Microsoft Intelligent Data Platform with Microsoft Fabric",
+      "Language": "English",
+      "Files": [
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Priya-Bai-S/MIDP-Lab-With-Microsoft-Fabric/dev/masterdoc/01.md",
+          "Order": 1
+        },
+              {
+                  "RawFilePath": "https://raw.githubusercontent.com/Priya-Bai-S/MIDP-Lab-With-Microsoft-Fabric/dev/masterdoc/02.md",
+          "Order": 2
+              },
+              {
+                  "RawFilePath": "https://raw.githubusercontent.com/Priya-Bai-S/MIDP-Lab-With-Microsoft-Fabric/dev/masterdoc/03.md",
+          "Order": 3
+              },
+              {
+                  "RawFilePath": "https://raw.githubusercontent.com/Priya-Bai-S/MIDP-Lab-With-Microsoft-Fabric/dev/masterdoc/04.md",
+          "Order": 4
+              },
+              {
+                  "RawFilePath": "https://raw.githubusercontent.com/Priya-Bai-S/MIDP-Lab-With-Microsoft-Fabric/dev/masterdoc/05.md",
+          "Order": 5
+              },
+              {
+                  "RawFilePath": "https://raw.githubusercontent.com/Priya-Bai-S/MIDP-Lab-With-Microsoft-Fabric/dev/masterdoc/06.md",
+          "Order": 6
+              }
+      ]
+    }
+  ]
