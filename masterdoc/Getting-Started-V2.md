@@ -1,6 +1,6 @@
-# Getting Started with MIDP Lab With Microsoft Fabric Workshop
+# Getting Started with Analytics in MIDP with Microsoft fabric Workshop
  
-Welcome to your MIDP Lab With Microsoft Fabric workshop! We've prepared a seamless environment for you to explore and learn about Azure Databricks. Let's begin by making the most of this experience:
+Welcome to your Analytics in MIDP with Microsoft fabric workshop! We've prepared a seamless environment for you to explore and learn about Azure Databricks. Let's begin by making the most of this experience:
  
 ## Accessing Your Lab Environment
  
