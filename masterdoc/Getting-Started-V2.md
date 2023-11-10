@@ -57,8 +57,6 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
  
 ![Start Your Azure Journey](../media/01/sc900-image(3).png)
  
-Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
-
 
 ## Known Issues
 
@@ -84,3 +82,5 @@ Now you're all set to explore the powerful world of technology. Feel free to rea
 [click-by-click with story](https://content.cloudguides.com/guides/Analytics%20in%20MIDP%20-%20Interactive%20Experience%20with%20a%20story)
 
  ----
+
+Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
